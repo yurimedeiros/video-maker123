@@ -1,0 +1,47 @@
+- [ ] Especificar Tarefas e Escopo
+
+---
+
+- [ ] **Orquestrador**
+   - [ ] Perguntar pelo termo de busca
+   - [ ] Perguntar pelo prefixo
+   - [ ] iniciar robô de texto
+   - [ ] iniciar robô de imagens 
+   - [ ] iniciar robô do vídeo
+   - [ ] iniciar robô do Youtube 
+
+---
+
+- [ ] **Robô de Texto**
+    - [ ] Estrutura de dados
+    - [ ] Pegar Conteúdo no Wikipedia
+    - [ ] Limpar o Conteúdo
+    - [ ] Quebrar em sentenças
+    - [ ] Pegar a Interpretação de Watson
+    - [ ] Adicionar Tags
+    - [ ] Salvar estrutura de dados
+
+
+---
+
+- [ ] **Robô de Imagens**
+    - [ ] Carregar a estrutura de dados
+    - [ ] Buscar as imagens no Google Imagens
+    - [ ] Baixar Imagens
+    - [ ] Salvar a estrutura de dados
+
+---
+
+- [ ] **Robô de Videos**
+    - [ ] Preparar/redimensionar as imagens
+    - [ ] Criar as sentenças com imagens
+    - [ ] Criar a thumbnail para o vídeo
+    - [ ] Renderizar o vídeo com After Effects 
+
+
+---
+
+- [ ] **Robô do YouTube**
+    - [ ] Autenticar com o OAuth
+    - [ ] upload do video
+    - [ ] upload do thumbnail 
