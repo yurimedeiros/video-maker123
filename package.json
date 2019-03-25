@@ -1,0 +1,19 @@
+{
+  "name": "video-maker123",
+  "version": "1.0.0",
+  "description": "Projeto open source para fazer videos robotizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurimedeiros/video-maker123.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yurimedeiros/video-maker123/issues"
+  },
+  "homepage": "https://github.com/yurimedeiros/video-maker123#readme"
+}
