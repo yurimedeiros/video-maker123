@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yurimedeiros/video-maker123/issues"
   },
-  "homepage": "https://github.com/yurimedeiros/video-maker123#readme"
+  "homepage": "https://github.com/yurimedeiros/video-maker123#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
